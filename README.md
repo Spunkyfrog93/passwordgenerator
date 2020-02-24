@@ -1,1 +1,2 @@
 # passwordgenerator
+I have created a Javascript file that prompts users with two questions: how long do they wish their password to be? And: do they wish to use numeric, special, uppercase or lowercase passwords. 
